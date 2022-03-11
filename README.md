@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WildBilliam
 - 👀 I’m interested in data analysis, R, Python, motorcycles, metal work, camping.
-- 🌱 I’m currently learning data analytics, R, Python, the perfect lasagna.
+- 🌱 I’m currently learning data analytics, R, Python, to cook the perfect lasagna.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
